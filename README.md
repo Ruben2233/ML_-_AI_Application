@@ -17,3 +17,6 @@ BIAS = 0.0;
 LoA = 1.35
 
 The model resulted very acurate, however precision was not as great.
+
+
+In order to run the experiments the files ML_AI_Exercise.py and dataset.csr need to be downloaded. Afterwards the path to the directory where they were downloaded needs to be inserted as 'my_directory' in line 7. The script is then ready to run in Python.
