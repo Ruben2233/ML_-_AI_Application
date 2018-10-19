@@ -10,10 +10,10 @@ Thereafter available machine learning methods for regression were selected. Line
 Regression and Bland-Altman plots are provided for performance evaluation. Bland-Altman plots provide Bias which is a suitable measures of accuracy and Limits of Agreement (LoA), i.e 1.96 times std of the differences or 95% confidence intervals, which is a suitable measure of precision. In addition, the correlation coefficient, the mean squared error, and the relative error were provided.
 
 Results were: 
-Correlation Coefficient = 0.82
-MSE = 0.48
-Relative Error = 22.7%
-BIAS = 0.0
+Correlation Coefficient = 0.82;
+MSE = 0.48;
+Relative Error = 22.7%;
+BIAS = 0.0;
 LoA = 1.35
 
 The model resulted very acurate, however precision was not as great.
